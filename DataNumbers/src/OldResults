@@ -1,0 +1,87 @@
+///	Trail 1	///
+
+Bubble sort time for 10: 486144.0
+Selection sort time for 10: 369920.0
+Insertion sort time for 10: 367104.0
+Merge sort time for 10: 463872.0
+Heap sort time for 10: 464128.0
+Quick sort time for 10: 404992.0
+
+Bubble sort time for 100: 988928.0
+Selection sort time for 100: 617984.0
+Insertion sort time for 100: 585984.0
+Merge sort time for 100: 699904.0
+Heap sort time for 100: 687872.0
+Quick sort time for 100: 566016.0
+
+Bubble sort time for 1,000: 7.2905984E7
+Selection sort time for 1,000: 7.0633984E7
+Insertion sort time for 1,000: 6.4155904E7
+Merge sort time for 1,000: 2695936.0
+Heap sort time for 1,000: 3138048.0
+Quick sort time for 1,000: 1665024.0
+
+Bubble sort time for 10,000: 1.464348928E9
+Selection sort time for 10,000: 7.72710912E8
+Insertion sort time for 10,000: 2.37357056E8
+Merge sort time for 10,000: 1.982592E8
+Heap sort time for 10,000: 1.15238912E8
+Quick sort time for 10,000: 4.3405056E7
+
+Bubble sort time for 100,000: 1.23879128064E11
+Selection sort time for 100,000: 7.5053675008E10
+Insertion sort time for 100,000: 2.198127104E10
+Merge sort time for 100,000: 1.21988608E9
+Heap sort time for 100,000: 3.39975936E8
+Quick sort time for 100,000: 2.98969088E8
+
+Bubble sort time for 1,000,000: 7.84713382784E12
+Selection sort time for 1,000,000: 6.806425976832E12
+Insertion sort time for 1,000,000: 2.118349150976E12
+Merge sort time for 1,000,000: 2.511544832E9
+Heap sort time for 1,000,000: 2.600731904E9
+Quick sort time for 1,000,000: 1.740833792E9
+
+///	Trail 2	///
+
+Bubble sort time for 10: 728832.0
+Selection sort time for 10: 451072.0
+Insertion sort time for 10: 483840.0
+Merge sort time for 10: 438016.0
+Heap sort time for 10: 584192.0
+Quick sort time for 10: 507904.0
+
+Bubble sort time for 100: 815104.0
+Selection sort time for 100: 537856.0
+Insertion sort time for 100: 453888.0
+Merge sort time for 100: 557056.0
+Heap sort time for 100: 8.1008896E7
+Quick sort time for 100: 619776.0
+
+Bubble sort time for 1,000: 9.1870976E7
+Selection sort time for 1,000: 1.05406976E8
+Insertion sort time for 1,000: 8.4397824E7
+Merge sort time for 1,000: 6.1146112E7
+Heap sort time for 1,000: 3164928.0
+Quick sort time for 1,000: 5651200.0
+
+Bubble sort time for 10,000: 1.44124288E9
+Selection sort time for 10,000: 8.04169984E8
+Insertion sort time for 10,000: 2.71154944E8
+Merge sort time for 10,000: 8.0741888E7
+Heap sort time for 10,000: 1.01770752E8
+Quick sort time for 10,000: 6.6605824E7
+
+Bubble sort time for 100,000: 1.1487343104E11
+Selection sort time for 100,000: 7.0140639232E10
+Insertion sort time for 100,000: 2.1886959104E10
+Merge sort time for 100,000: 1.076004864E9
+Heap sort time for 100,000: 2.04478976E8
+Quick sort time for 100,000: 2.81025024E8
+
+Bubble sort time for 1,000,000: 7.783906128128E12
+Selection sort time for 1,000,000: 7.050261708032E12
+Insertion sort time for 1,000,000: 2.188948752896E12
+Merge sort time for 1,000,000: 2.463970048E9
+Heap sort time for 1,000,000: 2.593090048E9
+Quick sort time for 1,000,000: 1.921811968E9
